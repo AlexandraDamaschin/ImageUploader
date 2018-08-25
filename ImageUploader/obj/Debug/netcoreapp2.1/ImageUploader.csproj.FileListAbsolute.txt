@@ -1,0 +1,17 @@
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageUploader.deps.json
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageUploader.runtimeconfig.json
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageUploader.runtimeconfig.dev.json
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageUploader.dll
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageUploader.pdb
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageWriter.dll
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\bin\Debug\netcoreapp2.1\ImageWriter.pdb
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.csprojAssemblyReference.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.RazorAssemblyInfo.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.RazorAssemblyInfo.cs
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.AssemblyInfoInputs.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.AssemblyInfo.cs
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.RazorTargetAssemblyInfo.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.csproj.CopyComplete
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.dll
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageUploader\obj\Debug\netcoreapp2.1\ImageUploader.pdb

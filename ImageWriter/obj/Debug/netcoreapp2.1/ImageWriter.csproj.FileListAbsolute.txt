@@ -1,0 +1,9 @@
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.deps.json
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.dll
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\bin\Debug\netcoreapp2.1\ImageWriter.pdb
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.csprojAssemblyReference.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfoInputs.cache
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.AssemblyInfo.cs
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.dll
+C:\Users\alexandra.damaschin\Desktop\ImageUpload-master\ImageWriter\obj\Debug\netcoreapp2.1\ImageWriter.pdb
